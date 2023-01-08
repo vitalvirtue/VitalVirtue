@@ -1,4 +1,4 @@
-<img src="https://github.com/vitalvirtue/VitalVirtue/blob/main/Banner.gif" />
+<img src="https://github.com/vitalvirtue/VitalVirtue/blob/main/BannerGray.gif" />
 
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/hayati-erdem-ozkumus" target="_blank">
