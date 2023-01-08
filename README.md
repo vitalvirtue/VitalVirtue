@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [![vitalvirtue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitalvirtue&show_icons=true)](https://github.com/vitalvirtue) -->
-
-[![vitalvirtue's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalvirtue&layout=compact&theme=onedark)](https://github.com/vitalvirtue)
 
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/hayati-erdem-ozkumus" target="_blank">
@@ -37,9 +34,6 @@ Here are some ideas to get you started:
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vitalvirtue&theme=tokyonight" alt="vitalvirtue" />
 <br/>
 
-&nbsp;<div align="center">
-### Social
-[![Linkedin: Hayati Erdem Özkümüş](https://img.shields.io/badge/-hayatierdemozkumus-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hayati-erdem-ozkumus) &nbsp;
-[![GitHub Hayati Erdem Özkümüş](https://img.shields.io/github/followers/vitalvirtue?label=follow&style=social)](https://github.com/vitalvirtue)
-[![Visits](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/vitalvirtue)
-</div>
+![](https://komarev.com/ghpvc/?username=vitalvirtue&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=vitalvirtue.vitalvirtue)
+<img src="https://img.shields.io/github/forks/vitalvirtue/vitalvirtue?style=social"></img>
