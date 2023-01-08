@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=vitalvirtue&color=brightgreen)
-![](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)]
+![](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/github/forks/vitalvirtue/vitalvirtue?style=social"></img>
