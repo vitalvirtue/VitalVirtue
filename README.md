@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ### Social
 [![Linkedin: Hayati Erdem Özkümüş](https://img.shields.io/badge/-hayatierdemozkumus-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayati-erdem-ozkumus) &nbsp;
-[![GitHub Emrah Urhan](https://img.shields.io/github/followers/raxetul?label=follow&style=social)](https://github.com/raxetul)
+[![GitHub Hayati Erdem Özkümüş](https://img.shields.io/github/followers/vitalvirtue?label=follow&style=social)](https://github.com/vitalvirtue)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vitalvirtue.github-badge&left_color=red&right_color=green&left_text=HelloVisitors)
