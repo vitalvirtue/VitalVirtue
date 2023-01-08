@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vitalvirtue&theme=tokyonight" alt="vitalvirtue" />
 <br/>
 
-[![Profile Views]](https://komarev.com/ghpvc/?username=vitalvirtue&color=brightgreen)
-[![Visits](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/vitalvirtue)
+![](https://komarev.com/ghpvc/?username=vitalvirtue&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/vitalvirtue)
 <img src="https://img.shields.io/github/forks/vitalvirtue/vitalvirtue?style=social"></img>
