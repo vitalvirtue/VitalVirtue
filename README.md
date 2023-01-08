@@ -14,11 +14,13 @@
 <img src="https://img.shields.io/github/followers/vitalvirtue?label=follow&style=social" />
 </a>
 
-<h2> Github Stats </h2> 
-<div class="container">
-<a href="https://github.com/vitalvirtue/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalvirtue&layout=compact&theme=tokyonight" /></a>
-<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vitalvirtue&theme=tokyonight" alt="vitalvirtue" />
-</div>
+<h2> Github Stats </h2>
+<table>
+  <tr>
+    <a href="https://github.com/vitalvirtue/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalvirtue&layout=compact&theme=tokyonight" /></a>
+    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vitalvirtue&theme=tokyonight" alt="vitalvirtue" />
+  </tr>
+</table>
 <br/>
 
 ![visitors](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
