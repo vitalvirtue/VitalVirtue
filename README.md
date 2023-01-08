@@ -19,5 +19,5 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vitalvirtue&theme=tokyonight" alt="vitalvirtue" />
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+![visitors](https://komarev.com/ghpvc/?username=vitalvirtue&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/github/forks/vitalvirtue/vitalvirtue?style=social"></img>
