@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [![vitalvirtue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitalvirtue&show_icons=true)](https://github.com/vitalvirtue) -->
 
+[![vitalvirtue's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalvirtue&layout=compact&theme=onedark)](https://github.com/vitalvirtue)
 
 ### Social
-[![Linkedin: Hayati Erdem Özkümüş](https://img.shields.io/badge/-hayatierdemozkumus-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayati-erdem-ozkumus) &nbsp;
+[![Linkedin: Hayati Erdem Özkümüş](https://img.shields.io/badge/-hayatierdemozkumus-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hayati-erdem-ozkumus) &nbsp;
 [![GitHub Hayati Erdem Özkümüş](https://img.shields.io/github/followers/vitalvirtue?label=follow&style=social)](https://github.com/vitalvirtue)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vitalvirtue.github-badge&left_color=red&right_color=green&left_text=HelloVisitors)
