@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/vitalvirtue" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
 </a> 
+<a href="https://leetcode.com/vitalvirtue" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode--brown" />
+</a>
 <a href="https://github.com/vitalvirtue" target="_blank">
 <img src="https://img.shields.io/github/followers/vitalvirtue?label=follow&style=social" />
-</a>
-</a> 
-<a href="https://leetcode.com/vitalvirtue" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--blue" />
 </a>
 &nbsp;<div align="center">
 ### Social
