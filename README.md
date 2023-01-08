@@ -1,4 +1,4 @@
-<img src="https://github.com/vitalvirtue/VitalVirtue/blob/master/Banner.gif" />
+<img src="https://github.com/vitalvirtue/VitalVirtue/master/Banner.gif" />
 </br>
 
 <h2> Connect with me on 👇</h2>
