@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS, GO, NestJS, Microservices Architecture, and DevOps Skills**
 
-- 👨‍💻 All of my projects are available at [vitalvirtue.github.io / github.com/vitalvirtue]
+- 👨‍💻 All of my projects are available at [vitalvirtue.github.io](https://vitalvirtue.github.io) / [github.com/vitalvirtue](https://github.com/vitalvirtue)
 
 - 💬 Ask me about **anyhthing**
 
