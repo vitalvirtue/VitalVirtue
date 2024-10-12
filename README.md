@@ -32,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitalvirtue&show_icons=true&locale=en&layout=compact" alt="vitalvirtue" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitalvirtue&show_icons=true&locale=en" alt="vitalvirtue" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitalvirtue&" alt="vitalvirtue" /></p>
