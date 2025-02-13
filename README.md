@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AWS Cloud, Go, and Linux**
 
-- 🌱 I’m currently learning **AWS, GO, NestJS, Microservices Architecture, and DevOps Skills**
+- 🌱 I’m currently learning **AWS, GO, Microservices Architecture, and DevOps Skills**
 
 - 👨‍💻 All of my projects are available at [vitalvirtue.github.io](https://vitalvirtue.github.io) / [github.com/vitalvirtue](https://github.com/vitalvirtue)
 
