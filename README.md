@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitalvirtue" alt="vitalvirtue" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Cloud, Go, and NestJS**
+- 🔭 I’m currently working on **AWS Cloud, Go, and Linux**
 
 - 🌱 I’m currently learning **AWS, GO, NestJS, Microservices Architecture, and DevOps Skills**
 
