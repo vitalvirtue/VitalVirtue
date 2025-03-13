@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitalvirtue" alt="vitalvirtue" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Dev, Go, and Linux-Windows Systems**
+- 🔭 I’m currently working on **React Native, Go, and Linux-Windows Systems**
 
 - 🌱 I’m currently learning **AWS, GO, RUST, and DevOps Skills**
 
