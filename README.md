@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitalvirtue" alt="vitalvirtue" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Cloud, Go, and Linux**
+- 🔭 I’m currently working on **Mobile Dev, Go, and Linux-Windows Systems**
 
-- 🌱 I’m currently learning **AWS, GO, Microservices Architecture, and DevOps Skills**
+- 🌱 I’m currently learning **AWS, GO, RUST, and DevOps Skills**
 
 - 👨‍💻 All of my projects are available at [vitalvirtue.github.io](https://vitalvirtue.github.io) / [github.com/vitalvirtue](https://github.com/vitalvirtue)
 
